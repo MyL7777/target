@@ -1,5 +1,6 @@
-# 3 items about me
+# 4 items about me
 
 I love Git 
 I like Netoloqy
 I have a dog
+I like cold weather
